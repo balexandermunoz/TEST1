@@ -1,0 +1,6 @@
+mkdir: crear carpeta
+git push/pull origin master: empujar o halar archivos de master
+git commit: modificar el archivo 
+git add: añadir daaaa
+touch: crear archivos vacíos
+cat: modificar archivos
